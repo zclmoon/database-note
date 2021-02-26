@@ -1,0 +1,16 @@
+{
+  "name": "database-note",
+  "version": "0.0.1",
+  "description": "Note for database knowledge",
+  "main": "index.js",
+  "repository": "git@github.com:zclmoon/database-note.git",
+  "author": "zclmoon",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
