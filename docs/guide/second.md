@@ -1,10 +1,8 @@
 ---
 sidebarDepth: 2
-prev: ./first
-next: ./second
 ---
 
-guide readme.
+second md
 
 # 一级标题
 
